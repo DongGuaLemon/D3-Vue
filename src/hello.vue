@@ -321,27 +321,7 @@ d.fx = null;
 d.fy = null;
 }
 }
-//     var projection = d3.geoMercator()
-//     .center([121,24])
-//     .scale(10000)
-//     var path = d3.geoPath()
-// 	.projection(projection);
-//   d3.json("http://localhost:8080/taiwan.jason", function(err, geojson) {	
-// 	var map = d3.select("g").selectAll("path")
-// 		.data(geojson.features)
-// 		.enter()
-// 		.append("path")
-// 		.attr("d", path)
-// 		.attr('stroke','black')
-// 		.attr('stroke-width', "1")
-// 		.attr('fill','#184200')
-// 		.on("mouseover", function(d) {
-// 			d3.select(this).attr("fill", "#e0f9d1");		
-// 		})
-// 		.on("mouseleave", function(d) {
-// 			d3.select(this).attr("fill", "#184200");
-// 		});
-// });
+
   }
 }
 </script>
