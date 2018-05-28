@@ -1,4 +1,4 @@
-# vue-test
+# vue-D3
 
 > A Vue.js project
 
